@@ -4,10 +4,10 @@ const d = {
         {
       "vids": [
         {
-          "user": "Fhy1ron",
+          "user": "Wunnee",
           "link": "https://www.youtube.com/watch?v=JZMOf8T2gDI",
           "percent": 100,
-          "hz": "240hz"
+          "hz": "90hz"
         },
         {
           "user": "Jah",
