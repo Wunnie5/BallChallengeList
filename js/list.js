@@ -8,104 +8,15 @@ const d = {
           "link": "https://www.youtube.com/watch?v=JZMOf8T2gDI",
           "percent": 100,
           "hz": "90hz"
-        },
-        {
-          "user": "Jah",
-          "link": "https://www.youtube.com/watch?v=bPjoH2--cOY",
-          "percent": 86,
-          "hz": "360hz"
-        },
-        {
-          "user": "Tai0",
-          "link": "https://youtu.be/0VxCvhtrqZc",
-          "percent": 100,
-          "hz": "144hz"
-        },
-        {
-          "user": "SlayerBot",
-          "link": "https://youtu.be/EYsfv6Vnop8",
-          "percent": 100,
-          "hz": "240hz"
-        },
-        {
-          "user": "iRaily",
-          "link": "https://youtu.be/w6NglV1PfTg",
-          "percent": 100,
-          "hz": "288hz"
-        },
-        {
-          "user": "Limsy",
-          "link": "https://youtu.be/wQE5wZ-ZOTk",
-          "percent": 100,
-          "hz": "360hz"
-        },
-        {
-          "user": "Gdxposed",
-          "link": "https://www.youtube.com/watch?v=zg9fexWdFIk",
-          "percent": 100,
-          "hz": "300Hz"
-        },
-        {
-          "user": "Nolife",
-          "link": "https://www.youtube.com/watch?v=vnc9Jw2vNGE",
-          "percent": 100,
-          "hz": "240Hz"
-        },
-        {
-          "user": "GD CrimsonKing22",
-          "link": "https://www.youtube.com/watch?v=n5vQiL7-LXk&ab_channel=GDCrimsonKing22",
-          "percent": 100,
-          "hz": "288Hz"
-        },
-        {
-          "user": "KylashTheKiller",
-          "link": "https://www.youtube.com/watch?v=fDG74lmlDnc",
-          "percent": 62,
-          "hz": "60Hz"
-        },
-        {
-          "user": "qb1",
-          "link": "https://youtu.be/6TyAfPIqCCo",
-          "percent": 100,
-          "hz": "240Hz"
-        },
-        {
-          "user": "dunix",
-          "link": "https://youtu.be/zwcSLP1kiN4",
-          "percent": 100,
-          "hz": "60Hz"
-        },
-        {
-          "user": "Dominooos",
-          "link": "https://www.youtube.com/watch?v=x7x78uu1ajA",
-          "percent": 100,
-          "hz": "60Hz"
-        },
-        {
-          "user": "Timéo",
-          "link": "https://www.youtube.com/watch?v=D2kaHv7qhhA&lc=UgzB2btkejxHAY6lUSR4AaABAg",
-          "percent": 91,
-          "hz": "144Hz"
-        },
-        {
-          "user": "SupaX_",
-          "link": "https://youtu.be/tvUvLelgQ5U",
-          "percent": 100,
-          "hz": "240Hz"
-        },
-        {
-          "user": "Sushiboys",
-          "link": "https://www.youtube.com/watch?v=Mxc71eOdbrw",
-          "percent": 100,
-          "hz": "300Hz"
+        
         },
     ],
-      "name": "Shitty Sigma",
-      "author": "RadioY [Kobra456]",
+      "name": "Rush L",
+      "author": "Wunnie [Wunnee]",
       "more": "none",
-      "id": 69936931,
+      "id": 147419954,
       "pass": "Free to copy",
-      "percentToQualify": 57,
+      "percentToQualify": 100,
       "verificationVid": "https://www.youtube.com/watch?v=fDuHmvU0A5k",
       "key": 0
     },
